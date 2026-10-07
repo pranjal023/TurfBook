@@ -1,6 +1,6 @@
 {
   "rewrites": [
-    { "source": "/api/:path*", "destination": "https://turfbook-api.onrender.com/api/:path*" },
+    { "source": "/api/:path*", "destination": "https://turfbook-10lm.onrender.com/api/:path*" },
     { "source": "/(.*)", "destination": "/index.html" }
   ]
 }
